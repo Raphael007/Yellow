@@ -1,0 +1,8 @@
+git syatus
+git add .
+git commit -m "world.c"
+git remote add origin https://
+git push -u origin master
+git pull origin master
+git clone https://
+   -u     is for update
